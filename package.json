@@ -1,0 +1,12 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "A simple project of a **BMI (body mass index) calculator**, however i use the best software development practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
