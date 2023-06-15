@@ -23,3 +23,11 @@ this project will have:
  * Processing: the application takes the user's input and calculates BMI using a formula.
  
  * Output: After application process user's inputs (height an weight), it will return user's body mass index, then this is the output and it will be displayed on user interface.
+
+## architecture: View, Controller, Usecase
+* View:
+   * user interface where will be possible access inputs of application
+* Controller:
+    * flux controll of application data between view and usecase layer.
+* Usecase:
+    * processing of data received by controller and application business rules. 
