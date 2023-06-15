@@ -24,7 +24,7 @@ this project will have:
  
  * Output: After application process user's inputs (height an weight), it will return user's body mass index, then this is the output and it will be displayed on user interface.
 
-## architecture: View, Controller, Usecase
+## Architecture: View, Controller, Usecase
 * View:
    * user interface where will be possible access inputs of application
 * Controller:
